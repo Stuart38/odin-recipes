@@ -1,0 +1,25 @@
+img {
+    border-style: inset;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-shadow: 1px 1px 2px black;
+    color: white;
+}
+
+ul {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    list-style: none;
+}
+
+body {
+    background-color: beige;
+}
